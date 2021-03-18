@@ -1,3 +1,4 @@
+<img src="drawing.jpg" alt="drawing" width="200"/>
 # Image-reproduction
 
 ![original](https://github.com/marha690/Image-reproduction/blob/main/result/ekorre_o.PNG =500x)
