@@ -1,8 +1,8 @@
-<img src="drawing.jpg" alt="drawing" width="200"/>
+
 # Image-reproduction
 
-![original](https://github.com/marha690/Image-reproduction/blob/main/result/ekorre_o.PNG =500x)
+<img src="https://github.com/marha690/Image-reproduction/blob/main/result/ekorre_o.PNG" alt="Original" width="400"/>
 
-![Circles](https://github.com/marha690/Image-reproduction/blob/main/result/ekorre_c.PNG =500x)
+<img src="https://github.com/marha690/Image-reproduction/blob/main/result/ekorre_c.PNG" alt="Circles" width="400"/>
 
-![Result](https://github.com/marha690/Image-reproduction/blob/main/result/ekorre_p.PNG =500x)
+<img src="https://github.com/marha690/Image-reproduction/blob/main/result/ekorre_p.PNG" alt="Result" width="400"/>
